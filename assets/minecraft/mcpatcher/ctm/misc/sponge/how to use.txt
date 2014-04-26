@@ -1,0 +1,1 @@
+If you want to use this texture in-game to help you with debugging just rename sponges to sponge (however you should know this already if you want to debug stuff :P)
