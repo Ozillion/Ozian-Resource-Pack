@@ -1,0 +1,7 @@
+In order to customize your pack and change those textures you need to follow this URL
+
+Ozillionian PvP Pack/assets/minecraft/textures/items
+
+Then just replace existing file with one in this folder! It's simple right?
+
+NOTE: You don't have to transfer the file you are reading right now.
