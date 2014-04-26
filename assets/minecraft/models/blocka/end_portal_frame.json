@@ -1,0 +1,13 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "empty_s":  { "model": "end_portal_frame_empty" },
+        "empty_w":  { "model": "end_portal_frame_empty", "y": 90 },
+        "empty_n":  { "model": "end_portal_frame_empty", "y": 180 },
+        "empty_e":  { "model": "end_portal_frame_empty", "y": 270 },
+        "filled_s": { "model": "end_portal_frame_filled" },
+        "filled_w": { "model": "end_portal_frame_filled", "y": 90 },
+        "filled_n": { "model": "end_portal_frame_filled", "y": 180 },
+        "filled_e": { "model": "end_portal_frame_filled", "y": 270 }
+    }
+}

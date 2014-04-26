@@ -1,0 +1,11 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "bottom": { "model": "trapdoor_bottom" },
+        "top":    { "model": "trapdoor_top" },
+        "open_n": { "model": "trapdoor_open" },
+        "open_s": { "model": "trapdoor_open", "y": 180 },
+        "open_w": { "model": "trapdoor_open", "y": 270 },
+        "open_e": { "model": "trapdoor_open", "y": 90 }
+    }
+}

@@ -1,0 +1,17 @@
+Changelog
+
+v1.7.9a - Bugfixes and new version format!
+-now using new version format
+-fixed not animated iron hoe
+-changed horse, inventory, cretive inventory GUI background colours(idea from zer0o1)
+-changed sandstone(all variations)
+-adapted sandstone CTM
+-changed sign entity to fit planks
+-changed sign item texture to fit sign entity
+-brightened ender pearl
+-removed custom nametag by Rhodox and friends, the creators of [Painterly Pack](http://painterlypack.net/)
+-fixed achievement screen for white bare GUI
+-retired broken fire to ALT
+-added new reduced fire as a replacement
+-added new flint and steal texture
+-changed pack image(might be temporary)

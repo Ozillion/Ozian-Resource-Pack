@@ -1,0 +1,65 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "inventoryRender3D": false,
+    "elements": [
+        {   "type": "cube",
+            "from": [ 5, 5, 9 ],
+            "to": [ 11, 12, 15 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 0, 0, 6, 6 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "up": {
+                    "uv": [ 0, 0, 6, 6 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 9, 4, 15, 11 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 9, 4, 15, 11 ],
+                    "textureFacing": "south",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 9, 4, 15, 11 ],
+                    "textureFacing": "west",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 9, 4, 15, 11 ],
+                    "textureFacing": "east",
+                    "cull": false
+                }
+            }
+        },
+        {   "type": "plane",
+            "from": [ 8, 12, 12 ],
+            "to": [ 8, 16, 16 ],
+            "facing": "west",
+            "faceData": {
+                "uv": [ 12, 0, 16, 4 ],
+                "textureFacing": "west",
+                "shade": 1.0,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 8, 12, 12 ],
+            "to": [ 8, 16, 16 ],
+            "facing": "east",
+            "faceData": {
+                "uv": [ 16, 0, 12, 4 ],
+                "textureFacing": "east",
+                "shade": 1.0,
+                "cull": false
+            }
+        }
+    ]
+}

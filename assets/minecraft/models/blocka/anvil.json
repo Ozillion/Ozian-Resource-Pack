@@ -1,0 +1,17 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "undamaged_s":  { "model": "anvil" },
+        "undamaged_w":  { "model": "anvil", "y": 90 },
+        "undamaged_n":  { "model": "anvil", "y": 180 },
+        "undamaged_e":  { "model": "anvil", "y": 270 },
+        "slightly_damaged_s":  { "model": "anvil" },
+        "slightly_damaged_w":  { "model": "anvil", "y": 90 },
+        "slightly_damaged_n":  { "model": "anvil", "y": 180 },
+        "slightly_damaged_e":  { "model": "anvil", "y": 270 },
+        "very_damaged_s":  { "model": "anvil" },
+        "very_damaged_w":  { "model": "anvil", "y": 90 },
+        "very_damaged_n":  { "model": "anvil", "y": 180 },
+        "very_damaged_e":  { "model": "anvil", "y": 270 }
+    }
+}

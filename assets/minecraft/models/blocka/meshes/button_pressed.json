@@ -1,0 +1,41 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "elements": [
+        {   "type": "cube",
+            "from": [ 5, 0, 6 ],
+            "to": [ 11, 1, 10 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 5, 6, 11, 10 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "up": {
+                    "uv": [ 5, 10, 11, 6 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 5, 15, 11, 16 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 5, 15, 11, 16 ],
+                    "textureFacing": "south",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 6, 15, 10, 16 ],
+                    "textureFacing": "west",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 6, 15, 10, 16 ],
+                    "textureFacing": "east",
+                    "cull": false
+                }
+            }
+        }
+    ]
+}

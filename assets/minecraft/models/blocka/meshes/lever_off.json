@@ -1,0 +1,81 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "inventoryRender3D": false,
+    "elements": [
+        {   "type": "cube",
+            "from": [ 5, 0, 4 ],
+            "to": [ 11, 3, 12 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 5, 4, 11, 12 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "up": {
+                    "uv": [ 5, 4, 11, 12 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 5, 0, 11, 3 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 5, 0, 11, 3 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 4, 0, 12, 3 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 4, 0, 12, 3 ],
+                    "textureFacing": "down",
+                    "cull": false
+                }
+            }
+        },
+        {   "type": "cube",
+            "from": [ 7, 1, 7 ],
+            "to": [ 9, 11, 9 ],
+            "origin": [ 8, 1, 8 ],
+            "rotation": [ 45, 0, 0 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 7, 6, 9, 8 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "up": {
+                    "uv": [ 7, 6, 9, 8 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 7, 6, 9, 16 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 7, 6, 9, 16 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 7, 6, 9, 16 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 7, 6, 9, 16 ],
+                    "textureFacing": "up",
+                    "cull": false
+                }
+            }
+        }
+    ]
+}

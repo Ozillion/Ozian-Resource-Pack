@@ -1,0 +1,10 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "normal":   { "model": "quartz" },
+        "chiseled": { "model": "quartz" },
+        "upright":  { "model": "quartz" },
+        "side_n":   { "model": "quartz_side" },
+        "side_e":   { "model": "quartz_side", "y": 90 }
+    }
+}

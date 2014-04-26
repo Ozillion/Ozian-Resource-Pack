@@ -1,0 +1,17 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "age0_s": { "model": "cocoa_age0_s" },
+        "age0_w": { "model": "cocoa_age0_s", "y": 90 },
+        "age0_n": { "model": "cocoa_age0_s", "y": 180 },
+        "age0_e": { "model": "cocoa_age0_s", "y": 270 },
+        "age1_s": { "model": "cocoa_age1_s" },
+        "age1_w": { "model": "cocoa_age1_s", "y": 90 },
+        "age1_n": { "model": "cocoa_age1_s", "y": 180 },
+        "age1_e": { "model": "cocoa_age1_s", "y": 270 },
+        "age2_s": { "model": "cocoa_age2_s" },
+        "age2_w": { "model": "cocoa_age2_s", "y": 90 },
+        "age2_n": { "model": "cocoa_age2_s", "y": 180 },
+        "age2_e": { "model": "cocoa_age2_s", "y": 270 }
+    }
+}

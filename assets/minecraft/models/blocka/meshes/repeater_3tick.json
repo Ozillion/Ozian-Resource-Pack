@@ -1,0 +1,110 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "inventoryRender3D": false,
+    "elements": [
+        {   "type": "cube",
+            "from": [ 0, 0, 0 ],
+            "to": [ 16, 2, 16 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 0, 0, 16, 16 ],
+                    "textureFacing": "south"
+                },
+                "up": {
+                    "uv": [ 0, 0, 16, 16 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 0, 14, 16, 16 ],
+                    "textureFacing": "south"
+                },
+                "south": {
+                    "uv": [ 0, 14, 16, 16 ],
+                    "textureFacing": "south"
+                },
+                "west": {
+                    "uv": [ 0, 14, 16, 16 ],
+                    "textureFacing": "south"
+                },
+                "east": {
+                    "uv": [ 0, 14, 16, 16 ],
+                    "textureFacing": "south"
+                }
+            }
+        },
+        {   "type": "cube",
+            "from": [ 7, 2, 10 ],
+            "to": [ 9, 7, 12 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 7, 13, 9, 15 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "up": {
+                    "uv": [ 7, 6, 9, 8 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 7, 6, 9, 11 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 7, 6, 9, 11 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 7, 6, 9, 11 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 7, 6, 9, 11 ],
+                    "textureFacing": "down",
+                    "cull": false
+                }
+            }
+        },
+        {   "type": "cube",
+            "from": [ 7, 2, 2 ],
+            "to": [ 9, 7, 4 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 7, 13, 9, 15 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "up": {
+                    "uv": [ 7, 6, 9, 8 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 7, 6, 9, 11 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 7, 6, 9, 11 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 7, 6, 9, 11 ],
+                    "textureFacing": "down",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 7, 6, 9, 11 ],
+                    "textureFacing": "down",
+                    "cull": false
+                }
+            }
+        }
+    ]
+}

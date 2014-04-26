@@ -1,0 +1,17 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "down":  { "model": "piston_head", "x": 90 },
+        "up":    { "model": "piston_head", "x": 270 },
+        "north": { "model": "piston_head" },
+        "south": { "model": "piston_head", "y": 180 },
+        "west":  { "model": "piston_head", "y": 270 },
+        "east":  { "model": "piston_head", "y": 90 },
+        "sticky_down":  { "model": "piston_head", "x": 90 },
+        "sticky_up":    { "model": "piston_head", "x": 270 },
+        "sticky_north": { "model": "piston_head" },
+        "sticky_south": { "model": "piston_head", "y": 180 },
+        "sticky_west":  { "model": "piston_head", "y": 270 },
+        "sticky_east":  { "model": "piston_head", "y": 90 }
+    }
+}

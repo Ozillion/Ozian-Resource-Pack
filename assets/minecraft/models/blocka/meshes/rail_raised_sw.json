@@ -1,0 +1,21 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "inventoryRender3D": false,
+    "elements": [
+        {   "type": "plane",
+            "from": [ 0, 9, 0 ],
+            "to": [ 16, 9, 16 ],
+            "facing": "up",
+            "rotation": [ -45, 0, 0 ],
+            "origin": [ 8, 9, 8 ],
+            "rescaleRotation": true,
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        }
+    ]
+}

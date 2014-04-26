@@ -1,0 +1,10 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "standing":  { "model": "torch" },
+        "wall_n":  { "model": "torch_wall" },
+        "wall_s":  { "model": "torch_wall", "y": 180 },
+        "wall_e":  { "model": "torch_wall", "y": 90 },
+        "wall_w":  { "model": "torch_wall", "y": 270 }
+    }
+}

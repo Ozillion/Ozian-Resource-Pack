@@ -1,0 +1,17 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "growth0":     { "model": "stem_growth0" },
+        "growth1":     { "model": "stem_growth1" },
+        "growth2":     { "model": "stem_growth2" },
+        "growth3":     { "model": "stem_growth3" },
+        "growth4":     { "model": "stem_growth4" },
+        "growth5":     { "model": "stem_growth5" },
+        "growth6":     { "model": "stem_growth6" },
+        "growth7":     { "model": "stem_growth7" },
+        "fruit_west":  { "model": "stem_fruit" },
+        "fruit_east":  { "model": "stem_fruit", "y": 180 },
+        "fruit_north": { "model": "stem_fruit", "y": 90 },
+        "fruit_south": { "model": "stem_fruit", "y": 270 }
+    }
+}

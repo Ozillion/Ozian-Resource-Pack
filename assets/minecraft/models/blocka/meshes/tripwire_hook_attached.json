@@ -1,0 +1,192 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "inventoryRender3D": false,
+    "elements": [
+        {   "type": "plane",
+            "from": [ 7.75, 1.5, 0 ],
+            "to": [ 8.25, 1.5, 6.7 ],
+            "facing": "up",
+            "twoSided": true,
+            "rotation": [ -22.5, 0, 0 ],
+            "origin": [ 8, 0, 0 ],
+            "rescaleRotation": true,
+            "faceData": {
+                "uv": [ 0, 6, 16, 8 ],
+                "rotation": 90,
+                "textureFacing": "south",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 6.2, 6.4, 6.4 ],
+            "to": [ 9.8, 6.4, 10 ],
+            "facing": "up",
+            "faceData": {
+                "uv": [ 5, 3, 11, 9 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 6.2, 5.6, 6.4 ],
+            "to": [ 9.8, 5.6, 10 ],
+            "facing": "down",
+            "faceData": {
+                "uv": [ 5, 3, 11, 9 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 6.2, 5.6, 6.4 ],
+            "to": [ 6.2, 6.4, 10 ],
+            "facing": "west",
+            "faceData": {
+                "uv": [ 5, 8, 11, 9 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 9.8, 5.6, 6.4 ],
+            "to": [ 9.8, 6.4, 10 ],
+            "facing": "east",
+            "faceData": {
+                "uv": [ 5, 3, 11, 4 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 6.2, 5.6, 6.4 ],
+            "to": [ 9.8, 6.4, 6.4 ],
+            "facing": "north",
+            "faceData": {
+                "uv": [ 5, 3, 11, 4 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 6.2, 5.6, 10 ],
+            "to": [ 9.8, 6.4, 10 ],
+            "facing": "south",
+            "faceData": {
+                "uv": [ 5, 8, 11, 9 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 7.4, 5.6, 8.8 ],
+            "to": [ 8.6, 6.4, 8.8 ],
+            "facing": "north",
+            "faceData": {
+                "uv": [ 7, 8, 9, 9 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 7.4, 5.6, 7.6 ],
+            "to": [ 8.6, 6.4, 7.6 ],
+            "facing": "south",
+            "faceData": {
+                "uv": [ 7, 3, 9, 4 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 7.4, 5.6, 7.6 ],
+            "to": [ 7.4, 6.4, 8.8 ],
+            "facing": "east",
+            "faceData": {
+                "uv": [ 7, 8, 9, 9 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 8.6, 5.6, 7.6 ],
+            "to": [ 8.6, 6.4, 8.8 ],
+            "facing": "west",
+            "faceData": {
+                "uv": [ 7, 3, 9, 4 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "cube",
+            "from": [ 7.4, 5.2, 10 ],
+            "to": [ 8.8, 6.8, 14 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 7, 9, 9, 14 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "up": {
+                    "uv": [ 7, 2, 9, 7 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 7, 9, 9, 11 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 7, 9, 9, 11 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 2, 9, 7, 11 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 9, 9, 14, 11 ],
+                    "textureFacing": "north",
+                    "cull": false
+                }
+            }
+        },
+        {   "type": "cube",
+            "from": [ 6, 1, 14 ],
+            "to": [ 10, 9, 16 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 6, 14, 10, 16 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "up": {
+                    "uv": [ 6, 0, 10, 2 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 6, 7, 10, 15 ],
+                    "textureFacing": "north"
+                },
+                "south": {
+                    "uv": [ 6, 7, 10, 15 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 0, 7, 2, 15 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 14, 7, 16, 15 ],
+                    "textureFacing": "north",
+                    "cull": false
+                }
+            }
+        }
+    ]
+}

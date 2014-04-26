@@ -1,0 +1,21 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "stone":        { "model": "half_slab" },
+        "sandstone":    { "model": "half_slab" },
+        "wood_old":     { "model": "half_slab" },
+        "cobble":       { "model": "half_slab" },
+        "brick":        { "model": "half_slab" },
+        "stone_brick":  { "model": "half_slab" },
+        "nether_brick": { "model": "half_slab" },
+        "quartz":       { "model": "half_slab" },
+        "stone_upper":        { "model": "upper_slab" },
+        "sandstone_upper":    { "model": "upper_slab" },
+        "wood_old_upper":     { "model": "upper_slab" },
+        "cobble_upper":       { "model": "upper_slab" },
+        "brick_upper":        { "model": "upper_slab" },
+        "stone_brick_upper":  { "model": "upper_slab" },
+        "nether_brick_upper": { "model": "upper_slab" },
+        "quartz_upper":       { "model": "upper_slab" }
+    }
+}

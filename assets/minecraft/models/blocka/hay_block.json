@@ -1,0 +1,8 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "upright":  { "model": "hay" },
+        "side_n":  { "model": "hay_side" },
+        "side_e":  { "model": "hay_side", "y": 90 }
+    }
+}

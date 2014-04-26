@@ -1,0 +1,29 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "north": { "model": "tripwire_hook" },
+        "south": { "model": "tripwire_hook", "y": 180 },
+        "west":  { "model": "tripwire_hook", "y": 270 },
+        "east":  { "model": "tripwire_hook", "y": 90 },
+        "attached_north": { "model": "tripwire_hook_attached" },
+        "attached_south": { "model": "tripwire_hook_attached", "y": 180 },
+        "attached_west":  { "model": "tripwire_hook_attached", "y": 270 },
+        "attached_east":  { "model": "tripwire_hook_attached", "y": 90 },
+        "attached_suspended_north": { "model": "tripwire_hook_attached_suspended" },
+        "attached_suspended_south": { "model": "tripwire_hook_attached_suspended", "y": 180 },
+        "attached_suspended_west":  { "model": "tripwire_hook_attached_suspended", "y": 270 },
+        "attached_suspended_east":  { "model": "tripwire_hook_attached_suspended", "y": 90 },
+        "powered_north": { "model": "tripwire_hook_powered" },
+        "powered_south": { "model": "tripwire_hook_powered", "y": 180 },
+        "powered_west":  { "model": "tripwire_hook_powered", "y": 270 },
+        "powered_east":  { "model": "tripwire_hook_powered", "y": 90 },
+        "attached_powered_north": { "model": "tripwire_hook_attached_powered" },
+        "attached_powered_south": { "model": "tripwire_hook_attached_powered", "y": 180 },
+        "attached_powered_west":  { "model": "tripwire_hook_attached_powered", "y": 270 },
+        "attached_powered_east":  { "model": "tripwire_hook_attached_powered", "y": 90 },
+        "attached_suspended_powered_north": { "model": "tripwire_hook_attached_suspended_powered" },
+        "attached_suspended_powered_south": { "model": "tripwire_hook_attached_suspended_powered", "y": 180 },
+        "attached_suspended_powered_west":  { "model": "tripwire_hook_attached_suspended_powered", "y": 270 },
+        "attached_suspended_powered_east":  { "model": "tripwire_hook_attached_suspended_powered", "y": 90 }
+    }
+}

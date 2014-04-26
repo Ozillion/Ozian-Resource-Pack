@@ -1,0 +1,104 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+    	"none": { "model": "redstone_none" },
+    	
+    	"n": { "model": "redstone_n" },
+    	"s": { "model": "redstone_n" },
+    	"e": { "model": "redstone_n", "y": 90 },
+    	"w": { "model": "redstone_n", "y": 90 },
+
+    	"un": { "model": "redstone_uns" },
+    	"us": { "model": "redstone_uns", "y": 180 },
+    	"ue": { "model": "redstone_uns", "y": 90 },
+    	"uw": { "model": "redstone_uns", "y": 270 },
+
+    	"ne":   { "model": "redstone_ne" },
+    	"une":  { "model": "redstone_une" },
+    	"nue":  { "model": "redstone_nue" },
+    	"unue": { "model": "redstone_unue" },
+
+    	"se":   { "model": "redstone_ne", "y": 90 },
+    	"sue":  { "model": "redstone_une", "y": 90 },
+    	"use":  { "model": "redstone_nue", "y": 90 },
+    	"usue": { "model": "redstone_unue", "y": 90 },
+
+    	"sw":   { "model": "redstone_ne", "y": 180 },
+    	"usw":  { "model": "redstone_une", "y": 180 },
+    	"suw":  { "model": "redstone_nue", "y": 180 },
+    	"usuw": { "model": "redstone_unue", "y": 180 },
+
+    	"nw":   { "model": "redstone_ne", "y": 270 },
+    	"nuw":  { "model": "redstone_une", "y": 270 },
+    	"unw":  { "model": "redstone_nue", "y": 270 },
+    	"unuw": { "model": "redstone_unue", "y": 270 },
+
+    	"ns":  { "model": "redstone_n" },
+    	"uns": { "model": "redstone_uns" },
+    	"nus": { "model": "redstone_uns", "y": 180 },
+    	"unus": { "model": "redstone_unus" },
+
+    	"ew":  { "model": "redstone_n", "y": 90 },
+    	"uew": { "model": "redstone_uns", "y": 90 },
+    	"euw": { "model": "redstone_uns", "y": 270 },
+    	"ueuw": { "model": "redstone_unus", "y": 90 },
+
+    	"nse":    { "model": "redstone_nse" },
+    	"unse":   { "model": "redstone_unse" },
+    	"nuse":   { "model": "redstone_nuse" },
+    	"nsue":   { "model": "redstone_nsue" },
+    	"nusue":  { "model": "redstone_nusue" },
+    	"unuse":  { "model": "redstone_unuse" },
+    	"unsue":  { "model": "redstone_unsue" },
+    	"unusue": { "model": "redstone_unusue" },
+
+    	"sew":    { "model": "redstone_nse", "y": 90 },
+    	"suew":   { "model": "redstone_unse", "y": 90 },
+    	"seuw":   { "model": "redstone_nuse", "y": 90 },
+    	"usew":   { "model": "redstone_nsue", "y": 90 },
+    	"useuw":  { "model": "redstone_nusue", "y": 90 },
+    	"sueuw":  { "model": "redstone_unuse", "y": 90 },
+    	"usuew":  { "model": "redstone_unsue", "y": 90 },
+    	"usueuw": { "model": "redstone_unusue", "y": 90 },
+
+    	"nsw":    { "model": "redstone_nse", "y": 180 },
+    	"nusw":   { "model": "redstone_unse", "y": 180 },
+    	"unsw":   { "model": "redstone_nuse", "y": 180 },
+    	"nsuw":   { "model": "redstone_nsue", "y": 180 },
+    	"unsuw":  { "model": "redstone_nusue", "y": 180 },
+    	"unusw":  { "model": "redstone_unuse", "y": 180 },
+    	"nusuw":  { "model": "redstone_unsue", "y": 180 },
+    	"unusuw": { "model": "redstone_unusue", "y": 180 },
+
+    	"new":    { "model": "redstone_nse", "y": 270 },
+    	"neuw":   { "model": "redstone_unse", "y": 270 },
+    	"nuew":   { "model": "redstone_nuse", "y": 270 },
+    	"unew":   { "model": "redstone_nsue", "y": 270 },
+    	"unuew":  { "model": "redstone_nusue", "y": 270 },
+    	"nueuw":  { "model": "redstone_unuse", "y": 270 },
+    	"uneuw":  { "model": "redstone_unsue", "y": 270 },
+    	"unueuw": { "model": "redstone_unusue", "y": 270 },
+
+    	"nsew": { "model": "redstone_nsew" },
+
+    	"unsew": { "model": "redstone_unsew" },
+    	"nusew": { "model": "redstone_unsew", "y": 180 },
+    	"nsuew": { "model": "redstone_unsew", "y": 90 },
+    	"nseuw": { "model": "redstone_unsew", "y": 270 },
+
+    	"unusew": { "model": "redstone_unusew" },
+    	"nsueuw": { "model": "redstone_unusew", "y": 90 },
+
+    	"unsuew": { "model": "redstone_unsuew" },
+    	"nusuew": { "model": "redstone_unsuew", "y": 90 },
+    	"nuseuw": { "model": "redstone_unsuew", "y": 180 },
+    	"unseuw": { "model": "redstone_unsuew", "y": 270 },
+
+    	"unusuew": { "model": "redstone_unusuew" },
+    	"nusueuw": { "model": "redstone_unusuew", "y": 90 },
+    	"unuseuw": { "model": "redstone_unusuew", "y": 180 },
+    	"unsueuw": { "model": "redstone_unusuew", "y": 270 },
+
+    	"unusueuw": { "model": "redstone_unusueuw" }
+    }
+}

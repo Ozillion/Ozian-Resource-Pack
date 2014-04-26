@@ -1,0 +1,87 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "randomOffsetX": true,
+    "randomOffsetZ": true,
+    "inventoryRender3D": false,
+    "elements": [
+        {   "type": "plane",
+            "from": [ 0.8, 0, 8 ],
+            "to": [ 15.2, 8, 8 ],
+            "facing": "south",
+            "rotation": [ 0, 45, 0 ],
+            "rescaleRotation": true,
+            "faceData": {
+                "uv": [ 0, 8, 16, 16 ],
+                "textureFacing": "up",
+                "tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 0.8, 0, 8 ],
+            "to": [ 15.2, 8, 8 ],
+            "facing": "north",
+            "rotation": [ 0, 45, 0 ],
+            "rescaleRotation": true,
+            "faceData": {
+                "uv": [ 0, 8, 16, 16 ],
+                "textureFacing": "up",
+                "tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 8, 0, 0.8 ],
+            "to": [ 8, 8, 15.2 ],
+            "facing": "east",
+            "rotation": [ 0, 45, 0 ],
+            "rescaleRotation": true,
+            "faceData": {
+                "uv": [ 0, 8, 16, 16 ],
+                "textureFacing": "up",
+                "tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 8, 0, 0.8 ],
+            "to": [ 8, 8, 15.2 ],
+            "facing": "west",
+            "rotation": [ 0, 45, 0 ],
+            "rescaleRotation": true,
+            "faceData": {
+                "uv": [ 0, 8, 16, 16 ],
+                "textureFacing": "up",
+                "tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 9.6, -1, 1 ],
+            "to": [ 9.6, 15, 15 ],
+            "facing": "east",
+            "rotation": [ 0, 0, 22.5 ],
+            "rescaleRotation": true,
+            "faceData": {
+                "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "north",
+                "tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 9.6, -1, 1 ],
+            "to": [ 9.6, 15, 16 ],
+            "facing": "west",
+            "rotation": [ 0, 0, 22.5 ],
+            "rescaleRotation": true,
+            "faceData": {
+                "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "south",
+                "tint": true,
+                "cull": false
+            }
+        }
+    ]
+}

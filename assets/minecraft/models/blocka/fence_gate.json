@@ -1,0 +1,22 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "inventory": { "model": "gate_closed" },
+        "closed_south": { "model": "gate_closed" },
+        "closed_west":  { "model": "gate_closed", "y": 90 },
+        "closed_north": { "model": "gate_closed", "y": 180 },
+        "closed_east":  { "model": "gate_closed", "y": 270 },
+        "open_south": { "model": "gate_open" },
+        "open_west":  { "model": "gate_open", "y": 90 },
+        "open_north": { "model": "gate_open", "y": 180 },
+        "open_east":  { "model": "gate_open", "y": 270 },
+        "wall_closed_south": { "model": "wall_gate_closed" },
+        "wall_closed_west":  { "model": "wall_gate_closed", "y": 90 },
+        "wall_closed_north": { "model": "wall_gate_closed", "y": 180 },
+        "wall_closed_east":  { "model": "wall_gate_closed", "y": 270 },
+        "wall_open_south": { "model": "wall_gate_open" },
+        "wall_open_west":  { "model": "wall_gate_open", "y": 90 },
+        "wall_open_north": { "model": "wall_gate_open", "y": 180 },
+        "wall_open_east":  { "model": "wall_gate_open", "y": 270 }
+    }
+}

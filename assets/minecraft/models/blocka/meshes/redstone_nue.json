@@ -1,0 +1,52 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "inventoryRender3D": false,
+    "rotateVariantTextures": false,
+    "elements": [
+        {   "type": "plane",
+            "from": [ 5, 0.25, 0 ],
+            "to": [ 16, 0.25, 11 ],
+            "facing": "up",
+            "faceData": {
+                "uv": [ 5, 0, 16, 11 ],
+                "textureFacing": "up",
+		"tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 5, 0.25, 0 ],
+            "to": [ 16, 0.25, 11 ],
+            "facing": "up",
+            "faceData": {
+                "uv": [ 5, 0, 16, 11 ],
+                "textureFacing": "down",
+		"tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 15.75, 0, 0 ],
+            "to": [ 15.75, 16, 16 ],
+            "facing": "west",
+            "faceData": {
+                "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "north",
+		"tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 15.75, 0, 0 ],
+            "to": [ 15.75, 16, 16 ],
+            "facing": "west",
+            "faceData": {
+                "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "south",
+		"tint": true,
+                "cull": false
+            }
+        }
+    ]
+}

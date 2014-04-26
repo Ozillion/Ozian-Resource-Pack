@@ -1,0 +1,186 @@
+Credits
+__________________________
+
+Credits to Plastix the creator of Plast Pack:
+
+Textures:
+-jungle top(no more being used)
+-spruce top(no more being used)
+-birch top(no more being used)
+-water(no more being used)
+-smoother bedrock
+-gold block(it's different, I promise!)
+-idea for diamond block(it's different, I promise!)
+-smooter nether rack
+-greener melon
+-smoother ladder
+-GUI containers (no more being used)
+-xp bar
+-hunger bar(modified just a bit)
+-multiplayer connection bar (modified a bit)
+-panorama background (no more being used)
+-menu title (no more being used)
+-compass
+-greener melon
+
+Sounds:
+-drink sound
+-click sound
+-portal sound (no more being used)
+
+Huge thanks for giving me new inspiration!!!
+
+
+Links:
+Plast Pack: https://oc.tc/forums/topics/51040da0f34422dbb400012c
+Plastix's Overcast Profile: https://oc.tc/Plastix
+
+________________________________
+
+
+
+Credits to FVDisco the creator of OCD pack:
+
+Textures:
+-widgets (no more being used)
+-inspiration for creating clean GUI for Ozillionian PvP Pack
+
+
+Links:
+FVDisco's Youtube channel: http://youtube.com/user/FVDisco
+OCD Pack forum thread: http://www.ocddisco.com/forums/viewtopic.php?f=9&t=27
+OCD Pack Download: http://www.ocddisco.com/ocdpack/
+
+
+
+________________________________
+
+
+
+Credits to SuperAlgae the creator of Paper Cut-Out pack for:
+
+Textures:
+-16 wools(no more being used)
+-color coding idea
+-HUD scroll ring in widgets
+-icons(modified a bit)
+
+
+Links:
+Planet Minecraft Paper Cut-Out thread: http://www.planetminecraft.com/texture_pack/paper-cut-out/
+
+________________________________
+
+
+
+Credits to Rhodox the creator of The Painterly Pack:
+
+Textures:
+-nether portal
+-16 wool textures
+-sandstone
+-sandstone smooth
+-sandstone carved
+-sign(modified a lot)
+-book and quill(unrecognizable)
+-portal 'trigger' sound
+-portal 'ambient' sound
+
+
+Official The Painterly Pack site: http://painterlypack.net/
+
+________________________________
+
+
+Credits to Sphax the creator of Sphax PureBDCraft:
+
+-fire (no more being used)
+
+Huge thanks for ton of inspiration and for bringing me into texturing
+
+Sphax's BDCraft site: http://bdcraft.net
+
+________________________________
+
+
+Credits to Gibboman62, Imalsome and CarGem the creators of Connected Textures Pack:
+
+-blinking mobs(no more being used)
+-randomized tall grass(no more being used)
+-connected smooth sandstone(fixed a lot of bugs)
+-connected stone slabs(changed to fit my own stone slab texture)
+-randomized craft tables(changed to fit my own craft table texture)
+-animated ender chest guts(no more being used)
+
+Huge thanks for showing great example of connected texture, randomized textures and basic animations in McPatcher
+
+Connected Textures Pack on Minecraft Forum: http://www.minecraftforum.net/topic/1618924-16x-162-connected-textures-finally-updated/
+
+________________________________
+
+
+Credits to AxjZOne the creator of FLOB pack:
+
+-grass side texture(modified)
+-snow grass side texture(modified)
+
+Optifine on Minecraft Forum: http://www.minecraftforum.net/topic/249637-164-optifine-hd-c6-fps-boost-hd-textures-aa-af-and-much-more/
+
+________________________________
+
+
+Credits to three_two the creator of Gravel pack:
+
+-animated lava bucket(modified)
+-water spotlight(changed transparency)
+-and idea to animate some items
+
+YouTube channel: http://www.youtube.com/user/threetwoLP?feature=watch
+OCN Gravel pack thread: https://oc.tc/forums/topics/52111bcfaf7fb0389f006b13
+
+________________________________
+
+
+Credits to sp614x the creator of Optifine Mod for awesome mod and:
+
+-connected glass texture(no more being used)
+-connected bookshelves texture(no more being used)
+
+Optifine on Minecraft Forum: http://www.minecraftforum.net/topic/249637-164-optifine-hd-c6-fps-boost-hd-textures-aa-af-and-much-more/
+
+________________________________
+
+
+Credits to Kahr the creator of McPatcher for awesome quickly updating mod!
+
+McPatcher on Minecraft Forum: http://www.minecraftforum.net/topic/1496369-172-164-and-earlierupdate-1030-mcpatcher-hd-fix-422/
+
+_______________________________
+
+
+Thanks to MapleMint the creator of Maple Pack fo cool idea of rainbow enchantment glint(no more being used)
+
+_______________________________
+
+
+Thanks to creators of DokuCraft for water texture
+
+Official site: http://dokucraft.co.uk/
+
+_______________________________
+
+
+Thanks to TiggyLi for highlighting the Plast Pack and for:
+
+-colour progression drawn bow animation
+
+TiggyLi's Youtube channel: http://youtube.com/user/TiggyLi
+
+________________________________
+
+
+Last but not least huge thanks Mojang for creating an amazing game with tons of possibilities and awesome community!!! :D
+
+Links:
+Official Minecraft site: https://minecraft.net
+Official Mojang site: https://mojang.com

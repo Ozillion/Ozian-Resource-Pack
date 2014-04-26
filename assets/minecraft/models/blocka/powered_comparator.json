@@ -1,0 +1,21 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "unlit_north": { "model": "comparator_unlit" },
+        "unlit_east":  { "model": "comparator_unlit", "y": 90 },
+        "unlit_south": { "model": "comparator_unlit", "y": 180 },
+        "unlit_west":  { "model": "comparator_unlit", "y": 270 },
+        "unlit_subtract_north": { "model": "comparator_unlit_subtract" },
+        "unlit_subtract_east":  { "model": "comparator_unlit_subtract", "y": 90 },
+        "unlit_subtract_south": { "model": "comparator_unlit_subtract", "y": 180 },
+        "unlit_subtract_west":  { "model": "comparator_unlit_subtract", "y": 270 },
+        "lit_north": { "model": "comparator_lit" },
+        "lit_east":  { "model": "comparator_lit", "y": 90 },
+        "lit_south": { "model": "comparator_lit", "y": 180 },
+        "lit_west":  { "model": "comparator_lit", "y": 270 },
+        "lit_subtract_north": { "model": "comparator_lit_subtract" },
+        "lit_subtract_east":  { "model": "comparator_lit_subtract", "y": 90 },
+        "lit_subtract_south": { "model": "comparator_lit_subtract", "y": 180 },
+        "lit_subtract_west":  { "model": "comparator_lit_subtract", "y": 270 }
+    }
+}

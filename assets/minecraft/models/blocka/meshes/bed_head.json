@@ -1,0 +1,56 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "elements": [
+        {   "type": "plane",
+            "from": [ 0, 3, 0 ],
+            "to": [ 16, 3, 16 ],
+            "facing": "down",
+            "faceData": {
+                "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 0, 9, 0 ],
+            "to": [ 16, 9, 16 ],
+            "facing": "up",
+            "faceData": {
+                "uv": [ 0, 16, 16, 0 ],
+                "rotation": 90,
+                "textureFacing": "up",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 0, 0, 0 ],
+            "to": [ 0, 9, 16 ],
+            "facing": "west",
+            "faceData": {
+                "uv": [ 0, 7, 16, 16 ],
+                "textureFacing": "west",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 16, 0, 0 ],
+            "to": [ 16, 9, 16 ],
+            "facing": "east",
+            "faceData": {
+                "uv": [ 16, 7, 0, 16 ],
+                "textureFacing": "east",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 0, 0, 16 ],
+            "to": [ 16, 9, 16 ],
+            "facing": "south",
+            "faceData": {
+                "uv": [ 0, 7, 16, 16 ],
+                "textureFacing": "south",
+                "cull": false
+            }
+        }
+    ]
+}

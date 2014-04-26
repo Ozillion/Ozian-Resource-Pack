@@ -1,0 +1,27 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "empty":          { "model": "flower_pot" },
+        "rose":           { "model": "flower_pot_cross" },
+        "orchid":         { "model": "flower_pot_cross" },
+        "allium":         { "model": "flower_pot_cross" },
+        "houstonia":      { "model": "flower_pot_cross" },
+        "tulip_red":      { "model": "flower_pot_cross" },
+        "tulip_orange":   { "model": "flower_pot_cross" },
+        "tulip_white":    { "model": "flower_pot_cross" },
+        "tulip_pink":     { "model": "flower_pot_cross" },
+        "daisy":          { "model": "flower_pot_cross" },
+        "dandelion":      { "model": "flower_pot_cross" },
+        "oak":            { "model": "flower_pot_cross" },
+        "spruce":         { "model": "flower_pot_cross" },
+        "birch":          { "model": "flower_pot_cross" },
+        "jungle":         { "model": "flower_pot_cross" },
+        "acacia":         { "model": "flower_pot_cross" },
+        "dark_oak":       { "model": "flower_pot_cross" },
+        "mushroom_red":   { "model": "flower_pot_cross" },
+        "mushroom_brown": { "model": "flower_pot_cross" },
+        "dead_bush":      { "model": "flower_pot_cross" },
+        "fern":           { "model": "flower_pot_fern" },
+        "cactus":         { "model": "flower_pot_cactus" }
+    }
+}

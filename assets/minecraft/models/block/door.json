@@ -1,0 +1,29 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "bottom_closed_east":   { "model": "door" },
+        "bottom_closed_south":  { "model": "door", "y": 90 },
+        "bottom_closed_west":   { "model": "door", "y": 180 },
+        "bottom_closed_north":  { "model": "door", "y": 270 },
+        "bottom_lh_open_east":  { "model": "door", "y": 90 },
+        "bottom_lh_open_south": { "model": "door", "y": 180 },
+        "bottom_lh_open_west":  { "model": "door", "y": 270 },
+        "bottom_lh_open_north": { "model": "door" },
+        "bottom_rh_open_east":  { "model": "door", "y": 270 },
+        "bottom_rh_open_south": { "model": "door" },
+        "bottom_rh_open_west":  { "model": "door", "y": 90 },
+        "bottom_rh_open_north": { "model": "door", "y": 180 },
+        "top_closed_east":   { "model": "door_top" },
+        "top_closed_south":  { "model": "door_top", "y": 90 },
+        "top_closed_west":   { "model": "door_top", "y": 180 },
+        "top_closed_north":  { "model": "door_top", "y": 270 },
+        "top_lh_open_east":  { "model": "door_top", "y": 90 },
+        "top_lh_open_south": { "model": "door_top", "y": 180 },
+        "top_lh_open_west":  { "model": "door_top", "y": 270 },
+        "top_lh_open_north": { "model": "door_top" },
+        "top_rh_open_east":  { "model": "door_top", "y": 270 },
+        "top_rh_open_south": { "model": "door_top" },
+        "top_rh_open_west":  { "model": "door_top", "y": 90 },
+        "top_rh_open_north": { "model": "door_top", "y": 180 }
+    }
+}

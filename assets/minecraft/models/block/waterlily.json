@@ -1,0 +1,9 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "rot0": { "model": "lily_pad", "y": 180 },
+        "rot1": { "model": "lily_pad", "y": 90 },
+        "rot2": { "model": "lily_pad" },
+        "rot3": { "model": "lily_pad", "y": 270 }
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "elements": [
+        {   "type": "cube",
+            "from": [ 6, 0, 0 ],
+            "to": [ 10, 16, 4 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 6, 0, 10, 4 ],
+                    "textureFacing": "down"
+                },
+                "up": {
+                    "uv": [ 6, 0, 10, 4 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 6, 0, 10, 16 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 6, 0, 10, 16 ],
+                    "textureFacing": "south",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 0, 0, 4, 16 ],
+                    "textureFacing": "west",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 0, 0, 4, 16 ],
+                    "textureFacing": "east",
+                    "cull": false
+                }
+            },
+            "__comment": "Left post"
+        },
+        {   "type": "cube",
+            "from": [ 6, 0, 12 ],
+            "to": [ 10, 16, 16 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 6, 12, 10, 16 ],
+                    "textureFacing": "down"
+                },
+                "up": {
+                    "uv": [ 6, 12, 10, 16 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 6, 0, 10, 16 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 6, 0, 10, 16 ],
+                    "textureFacing": "south",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 12, 0, 16, 16 ],
+                    "textureFacing": "west",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 12, 0, 16, 16 ],
+                    "textureFacing": "east",
+                    "cull": false
+                }
+            },
+            "__comment": "Right post"
+        },
+        {   "type": "cube",
+            "from": [ 7, 13, -2 ],
+            "to": [ 9, 15, 18 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 7, 0, 9, 16 ],
+                    "textureFacing": "down"
+                },
+                "up": {
+                    "uv": [ 7, 0, 9, 16 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 7, 1, 9, 3 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 7, 1, 9, 3 ],
+                    "textureFacing": "south",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 0, 1, 16, 3 ],
+                    "textureFacing": "west",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 0, 1, 16, 3 ],
+                    "textureFacing": "east",
+                    "cull": false
+                }
+            },
+            "__comment": "Top bar"
+        },
+        {   "type": "cube",
+            "from": [ 7, 5, -2 ],
+            "to": [ 9, 7, 18 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 7, 0, 9, 16 ],
+                    "textureFacing": "down"
+                },
+                "up": {
+                    "uv": [ 7, 0, 9, 16 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 7, 9, 9, 11 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 7, 9, 9, 11 ],
+                    "textureFacing": "south",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 0, 9, 16, 11 ],
+                    "textureFacing": "west",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 0, 9, 16, 11 ],
+                    "textureFacing": "east",
+                    "cull": false
+                }
+            },
+            "__comment": "Lower bar"
+        }
+    ]
+}

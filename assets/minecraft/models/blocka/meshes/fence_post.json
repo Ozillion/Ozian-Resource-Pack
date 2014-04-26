@@ -1,0 +1,42 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "rotateVariantTextures": false,
+    "elements": [
+        {   "type": "cube",
+            "from": [ 6, 0, 6 ],
+            "to": [ 10, 16, 10 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 6, 6, 10, 10 ],
+                    "textureFacing": "down"
+                },
+                "up": {
+                    "uv": [ 6, 6, 10, 10 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 6, 0, 10, 16 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 6, 0, 10, 16 ],
+                    "textureFacing": "south",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 6, 0, 10, 16 ],
+                    "textureFacing": "west",
+                    "cull": false
+                },
+                "east": {
+                    "uv": [ 6, 0, 10, 16 ],
+                    "textureFacing": "east",
+                    "cull": false
+                }
+            },
+            "__comment": "Center post"
+        }
+    ]
+}

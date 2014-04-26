@@ -1,0 +1,67 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "inventoryRender3D": false,
+    "elements": [
+        {   "type": "plane",
+            "from": [ 0, 15.2, 0 ],
+            "to": [ 16, 15.2, 16 ],
+            "facing": "down",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "down",
+                "tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 15.2, 0, 0 ],
+            "to": [ 15.2, 16, 16 ],
+            "facing": "west",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "down",
+                "tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 0, 0, 15.2 ],
+            "to": [ 16, 16, 15.2 ],
+            "facing": "north",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "down",
+                "tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 0.8, 0, 0 ],
+            "to": [ 0.8, 16, 16 ],
+            "facing": "east",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "down",
+                "tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 0, 0, 0.8 ],
+            "to": [ 16, 16, 0.8 ],
+            "facing": "south",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "down",
+                "tint": true,
+                "cull": false
+            }
+        }
+    ]
+}

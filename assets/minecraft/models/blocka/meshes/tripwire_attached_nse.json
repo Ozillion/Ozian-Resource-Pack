@@ -1,0 +1,77 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "inventoryRender3D": false,
+    "elements": [
+        {   "type": "plane",
+            "from": [ 7.75, 1.5, 0 ],
+            "to": [ 8.25, 1.5, 4 ],
+            "facing": "up",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 2, 16, 4 ],
+                "rotation": 90,
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 7.75, 1.5, 4 ],
+            "to": [ 8.25, 1.5, 8 ],
+            "facing": "up",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 2, 16, 4 ],
+                "rotation": 90,
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 7.75, 1.5, 8 ],
+            "to": [ 8.25, 1.5, 12 ],
+            "facing": "up",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 2, 16, 4 ],
+                "rotation": 90,
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 7.75, 1.5, 12 ],
+            "to": [ 8.25, 1.5, 16 ],
+            "facing": "up",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 2, 16, 4 ],
+                "rotation": 90,
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 8, 1.5, 7.75 ],
+            "to": [ 12, 1.5, 8.25 ],
+            "facing": "up",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 2, 16, 4 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 12, 1.5, 7.75 ],
+            "to": [ 16, 1.5, 8.25 ],
+            "facing": "up",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 2, 16, 4 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        }
+    ]
+}

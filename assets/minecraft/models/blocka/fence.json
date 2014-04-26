@@ -1,0 +1,22 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "inventory": { "model": "fence_inventory" },
+        "none": { "model": "fence_post" },
+        "n": { "model": "fence_n" },
+        "e": { "model": "fence_n", "y": 90 },
+        "s": { "model": "fence_n", "y": 180 },
+        "w": { "model": "fence_n", "y": 270 },
+        "ne": { "model": "fence_ne" },
+        "es": { "model": "fence_ne", "y": 90 },
+        "sw": { "model": "fence_ne", "y": 180 },
+        "nw": { "model": "fence_ne", "y": 270 },
+        "ns": { "model": "fence_ns" },
+        "ew": { "model": "fence_ns", "y": 90 },
+        "nse": { "model": "fence_nse" },
+        "sew": { "model": "fence_nse", "y": 90 },
+        "swn": { "model": "fence_nse", "y": 180 },
+        "new": { "model": "fence_nse", "y": 270 },
+        "nsew": { "model": "fence_nsew" }
+    }
+}

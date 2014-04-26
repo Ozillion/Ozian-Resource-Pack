@@ -1,0 +1,48 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "elements": [
+        {   "type": "plane",
+            "from": [ 0, 0, 0 ],
+            "to": [ 16, 0, 16 ],
+            "facing": "down",
+            "shade": 0.5,
+            "faceData": { "uv": [ 0, 0, 16, 16 ], "textureFacing": "down" }
+        },
+        {   "type": "plane",
+            "from": [ 0, 16, 0 ],
+            "to": [ 16, 16, 16 ],
+            "facing": "up",
+            "shade": 1.0,
+            "faceData": { "uv": [ 0, 0, 16, 16 ], "textureFacing": "up" }
+        },
+        {   "type": "plane",
+            "from": [ 0, 0, 1 ],
+            "to": [ 16, 16, 1 ],
+            "facing": "north",
+            "shade": 0.8,
+            "faceData": { "uv": [ 0, 0, 16, 16 ], "textureFacing": "north", "cull": false }
+        },
+        {   "type": "plane",
+            "from": [ 0, 0, 15 ],
+            "to": [ 16, 16, 15 ],
+            "facing": "south",
+            "shade": 0.8,
+            "faceData": { "uv": [ 0, 0, 16, 16 ], "textureFacing": "south", "cull": false }
+        },
+        {   "type": "plane",
+            "from": [ 1, 0, 0 ],
+            "to": [ 1, 16, 16 ],
+            "facing": "west",
+            "shade": 0.6,
+            "faceData": { "uv": [ 0, 0, 16, 16 ], "textureFacing": "west", "cull": false }
+        },
+        {   "type": "plane",
+            "from": [ 15, 0, 0 ],
+            "to": [ 15, 16, 16 ],
+            "facing": "east",
+            "shade": 0.6,
+            "faceData": { "uv": [ 0, 0, 16, 16 ], "textureFacing": "east", "cull": false }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "stone":           { "model": "cube" },
+        "granite":         { "model": "cube" },
+        "granite_smooth":  { "model": "cube" },
+        "diorite":         { "model": "cube" },
+        "diorite_smooth":  { "model": "cube" },
+        "andesite":        { "model": "cube" },
+        "andesite_smooth": { "model": "cube" }
+    }
+}

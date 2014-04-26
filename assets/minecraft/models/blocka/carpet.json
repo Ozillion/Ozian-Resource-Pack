@@ -1,0 +1,21 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "black":      { "model": "carpet" },
+        "red":        { "model": "carpet" },
+        "green":      { "model": "carpet" },
+        "brown":      { "model": "carpet" },
+        "blue":       { "model": "carpet" },
+        "purple":     { "model": "carpet" },
+        "cyan":       { "model": "carpet" },
+        "silver":     { "model": "carpet" },
+        "gray":       { "model": "carpet" },
+        "pink":       { "model": "carpet" },
+        "lime":       { "model": "carpet" },
+        "yellow":     { "model": "carpet" },
+        "light_blue": { "model": "carpet" },
+        "magenta":    { "model": "carpet" },
+        "orange":     { "model": "carpet" },
+        "white":      { "model": "carpet" }
+    }
+}

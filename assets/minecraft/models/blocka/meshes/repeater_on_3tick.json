@@ -1,0 +1,138 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "inventoryRender3D": false,
+    "elements": [
+        {   "type": "cube",
+            "from": [ 0, 0, 0 ],
+            "to": [ 16, 2, 16 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 0, 0, 16, 16 ],
+                    "textureFacing": "south"
+                },
+                "up": {
+                    "uv": [ 0, 0, 16, 16 ],
+                    "textureFacing": "up",
+                    "cull": false
+                },
+                "north": {
+                    "uv": [ 0, 14, 16, 16 ],
+                    "textureFacing": "south"
+                },
+                "south": {
+                    "uv": [ 0, 14, 16, 16 ],
+                    "textureFacing": "south"
+                },
+                "west": {
+                    "uv": [ 0, 14, 16, 16 ],
+                    "textureFacing": "south"
+                },
+                "east": {
+                    "uv": [ 0, 14, 16, 16 ],
+                    "textureFacing": "south"
+                }
+            }
+        },
+        {   "type": "plane",
+            "from": [ 7, 7, 10 ],
+            "to": [ 9, 7, 12 ],
+            "facing": "up",
+            "faceData": {
+                "uv": [ 7, 6, 9, 8 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 7, 2, 9 ],
+            "to": [ 7, 8, 13 ],
+            "facing": "west",
+            "faceData": {
+                "uv": [ 6, 5, 10, 11 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 9, 2, 9 ],
+            "to": [ 9, 8, 13 ],
+            "facing": "east",
+            "faceData": {
+                "uv": [ 6, 5, 10, 11 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 6, 2, 12 ],
+            "to": [ 10, 8, 12 ],
+            "facing": "south",
+            "faceData": {
+                "uv": [ 6, 5, 10, 11 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 6, 2, 10 ],
+            "to": [ 10, 8, 10 ],
+            "facing": "north",
+            "faceData": {
+                "uv": [ 6, 5, 10, 11 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 7, 7, 2 ],
+            "to": [ 9, 7, 4 ],
+            "facing": "up",
+            "faceData": {
+                "uv": [ 7, 6, 9, 8 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 7, 2, 1 ],
+            "to": [ 7, 8, 5 ],
+            "facing": "west",
+            "faceData": {
+                "uv": [ 6, 5, 10, 11 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 9, 2, 1 ],
+            "to": [ 9, 8, 5 ],
+            "facing": "east",
+            "faceData": {
+                "uv": [ 6, 5, 10, 11 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 6, 2, 4 ],
+            "to": [ 10, 8, 4 ],
+            "facing": "south",
+            "faceData": {
+                "uv": [ 6, 5, 10, 11 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 6, 2, 2 ],
+            "to": [ 10, 8, 2 ],
+            "facing": "north",
+            "faceData": {
+                "uv": [ 6, 5, 10, 11 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        }
+    ]
+}

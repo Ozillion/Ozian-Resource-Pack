@@ -1,0 +1,18 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "oak":      { "model": "half_slab" },
+        "spruce":   { "model": "half_slab" },
+        "birch":    { "model": "half_slab" },
+        "jungle":   { "model": "half_slab" },
+        "acacia":   { "model": "half_slab" },
+        "dark_oak": { "model": "half_slab" },
+        "dark_oak_upper": { "model": "upper_slab" },
+        "oak_upper":      { "model": "upper_slab" },
+        "spruce_upper":   { "model": "upper_slab" },
+        "birch_upper":    { "model": "upper_slab" },
+        "jungle_upper":   { "model": "upper_slab" },
+        "acacia_upper":   { "model": "upper_slab" },
+        "dark_oak_upper": { "model": "upper_slab" }
+    }
+}

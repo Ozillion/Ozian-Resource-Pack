@@ -1,0 +1,13 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "growth_stage0": { "model": "crop" },
+        "growth_stage1": { "model": "crop" },
+        "growth_stage2": { "model": "crop" },
+        "growth_stage3": { "model": "crop" },
+        "growth_stage4": { "model": "crop" },
+        "growth_stage5": { "model": "crop" },
+        "growth_stage6": { "model": "crop" },
+        "grown":         { "model": "crop" }
+    }
+}

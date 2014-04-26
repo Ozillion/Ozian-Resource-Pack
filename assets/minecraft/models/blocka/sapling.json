@@ -1,0 +1,17 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "oak_stage0":      { "model": "cross" },
+        "oak_stage1":      { "model": "cross" },
+        "spruce_stage0":   { "model": "cross" },
+        "spruce_stage1":   { "model": "cross" },
+        "birch_stage0":    { "model": "cross" },
+        "birch_stage1":    { "model": "cross" },
+        "jungle_stage0":   { "model": "cross" },
+        "jungle_stage1":   { "model": "cross" },
+        "acacia_stage0":   { "model": "cross" },
+        "acacia_stage1":   { "model": "cross" },
+        "dark_oak_stage0": { "model": "cross" },
+        "dark_oak_stage1": { "model": "cross" }
+    }
+}

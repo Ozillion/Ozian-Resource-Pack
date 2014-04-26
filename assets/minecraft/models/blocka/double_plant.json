@@ -1,0 +1,17 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "sunflower_bottom": { "model": "flower" },
+        "sunflower_top":    { "model": "sunflower" },
+        "syringa_bottom":   { "model": "flower" },
+        "syringa_top":      { "model": "flower" },
+        "grass_bottom":     { "model": "flower" },
+        "grass_top":        { "model": "flower" },
+        "fern_bottom":      { "model": "flower" },
+        "fern_top":         { "model": "flower" },
+        "rose_bottom":      { "model": "flower" },
+        "rose_top":         { "model": "flower" },
+        "paeonia_bottom":   { "model": "flower" },
+        "paeonia_top":      { "model": "flower" }
+    }
+}

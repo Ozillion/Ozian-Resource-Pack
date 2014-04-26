@@ -1,0 +1,18 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "inventory": { "model": "piston_inventory" },
+        "down":  { "model": "piston", "x": 90 },
+        "up":    { "model": "piston", "x": 270 },
+        "north": { "model": "piston" },
+        "south": { "model": "piston", "y": 180 },
+        "west":  { "model": "piston", "y": 270 },
+        "east":  { "model": "piston", "y": 90 },
+        "extended_down":  { "model": "piston_extended", "x": 90 },
+        "extended_up":    { "model": "piston_extended", "x": 270 },
+        "extended_north": { "model": "piston_extended" },
+        "extended_south": { "model": "piston_extended", "y": 180 },
+        "extended_west":  { "model": "piston_extended", "y": 270 },
+        "extended_east":  { "model": "piston_extended", "y": 90 }
+    }
+}

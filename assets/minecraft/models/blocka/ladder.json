@@ -1,0 +1,9 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "north": { "model": "ladder" },
+        "east":  { "model": "ladder", "y": 90 },
+        "south": { "model": "ladder", "y": 180 },
+        "west":  { "model": "ladder", "y": 270 }
+    }
+}

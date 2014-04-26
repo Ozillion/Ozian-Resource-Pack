@@ -1,0 +1,15 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "flat_ns":  { "model": "rail_flat" },
+        "flat_ew":  { "model": "rail_flat", "y": 90 },
+        "raised_e": { "model": "rail_raised_ne", "y": 90 },
+        "raised_w": { "model": "rail_raised_sw", "y": 90 },
+        "raised_n": { "model": "rail_raised_ne" },
+        "raised_s": { "model": "rail_raised_sw" },
+        "corner_se": { "model": "rail_curved" },
+        "corner_sw": { "model": "rail_curved", "y": 90 },
+        "corner_nw": { "model": "rail_curved", "y": 180 },
+        "corner_ne": { "model": "rail_curved", "y": 270 }
+    }
+}

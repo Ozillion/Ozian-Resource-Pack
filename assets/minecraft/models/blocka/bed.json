@@ -1,0 +1,13 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "foot_north": { "model": "bed_foot", "y": 180 },
+        "foot_east":  { "model": "bed_foot", "y": 270 },
+        "foot_south": { "model": "bed_foot" },
+        "foot_west":  { "model": "bed_foot", "y": 90 },
+        "head_north": { "model": "bed_head", "y": 180 },
+        "head_east":  { "model": "bed_head", "y": 270 },
+        "head_south": { "model": "bed_head" },
+        "head_west":  { "model": "bed_head", "y": 90 }
+    }
+}

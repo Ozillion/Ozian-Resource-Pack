@@ -1,0 +1,9 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "oak":    { "model": "leaves" },
+        "spruce": { "model": "leaves" },
+        "birch":  { "model": "leaves" },
+        "jungle": { "model": "leaves" }
+    }
+}

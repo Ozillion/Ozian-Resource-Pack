@@ -1,0 +1,13 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "height2":  { "model": "snow_height2" },
+        "height4":  { "model": "snow_height4" },
+        "height6":  { "model": "snow_height6" },
+        "height8":  { "model": "snow_height8" },
+        "height10":  { "model": "snow_height10" },
+        "height12":  { "model": "snow_height12" },
+        "height14":  { "model": "snow_height14" },
+        "height16":  { "model": "cube" }
+    }
+}

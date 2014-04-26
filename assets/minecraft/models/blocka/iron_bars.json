@@ -1,0 +1,21 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "none": { "model": "bars_nsew" },
+        "n": { "model": "bars_n" },
+        "e": { "model": "bars_n", "y": 90 },
+        "s": { "model": "bars_n", "y": 180 },
+        "w": { "model": "bars_n", "y": 270 },
+        "ne": { "model": "bars_ne" },
+        "es": { "model": "bars_ne", "y": 90 },
+        "sw": { "model": "bars_ne", "y": 180 },
+        "nw": { "model": "bars_ne", "y": 270 },
+        "ns": { "model": "bars_ns" },
+        "ew": { "model": "bars_ns", "y": 90 },
+        "nse": { "model": "bars_nse" },
+        "sew": { "model": "bars_nse", "y": 90 },
+        "swn": { "model": "bars_nse", "y": 180 },
+        "new": { "model": "bars_nse", "y": 270 },
+        "nsew": { "model": "bars_nsew" }
+    }
+}

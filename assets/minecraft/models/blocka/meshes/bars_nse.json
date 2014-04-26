@@ -1,0 +1,113 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "elements": [
+        {   "type": "plane",
+            "from": [ 8, 0, 0 ],
+            "to": [ 8, 16, 16 ],
+            "facing": "east",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "north",
+                "cull": false
+            },
+            "__comment": "Belongs to north-south segment"
+        },
+        {   "type": "plane",
+            "from": [ 7, 0, 0 ],
+            "to": [ 9, 16, 0 ],
+            "facing": "north",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 7, 0, 9, 16 ],
+                "textureFacing": "down"
+            },
+            "__comment": "Belongs to north-south segment"
+        },
+        {   "type": "plane",
+            "from": [ 7, 0, 16 ],
+            "to": [ 9, 16, 16 ],
+            "facing": "south",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 7, 0, 9, 16 ],
+                "textureFacing": "down"
+            },
+            "__comment": "Belongs to north-south segment"
+        },
+        {   "type": "plane",
+            "from": [ 7, 15.995, 0 ],
+            "to": [ 9, 15.995, 16 ],
+            "facing": "up",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 7, 0, 9, 16 ],
+                "textureFacing": "down",
+                "cull": false
+            },
+            "__comment": "Belongs to north-south segment"
+        },
+        {   "type": "plane",
+            "from": [ 7, 0.005, 0 ],
+            "to": [ 9, 0.005, 16 ],
+            "facing": "down",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 9, 0, 7, 16 ],
+                "textureFacing": "down",
+                "cull": false
+            },
+            "__comment": "Belongs to north-south segment"
+        },
+        {   "type": "plane",
+            "from": [ 8, 0, 8 ],
+            "to": [ 16, 16, 8 ],
+            "facing": "south",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 16, 0, 8, 16 ],
+                "textureFacing": "north",
+                "cull": false
+            },
+            "__comment": "Belongs to east segment"
+        },
+        {   "type": "plane",
+            "from": [ 16, 0, 7 ],
+            "to": [ 16, 16, 9 ],
+            "facing": "east",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 7, 0, 9, 16 ],
+                "textureFacing": "down"
+            },
+            "__comment": "Belongs to east segment"
+        },
+        {   "type": "plane",
+            "from": [ 9, 15.995, 7 ],
+            "to": [ 16, 15.995, 9 ],
+            "facing": "up",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 7, 0, 9, 7 ],
+                "textureFacing": "down",
+                "rotation": 90,
+                "cull": false
+            },
+            "__comment": "Belongs to east segment"
+        },
+        {   "type": "plane",
+            "from": [ 9, 0.005, 7 ],
+            "to": [ 16, 0.005, 9 ],
+            "facing": "down",
+            "twoSided": true,
+            "faceData": {
+                "uv": [ 9, 0, 7, 7 ],
+                "textureFacing": "down",
+                "rotation": 90,
+                "cull": false
+            },
+            "__comment": "Belongs to east segment"
+        }
+    ]
+}

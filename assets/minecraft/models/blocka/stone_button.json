@@ -1,0 +1,18 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "inventory": { "model": "button_inventory" },
+        "up":    { "model": "button" },
+        "down":  { "model": "button", "x": 180 },
+        "east":  { "model": "button", "x": 90, "y": 90 },
+        "west":  { "model": "button", "x": 90, "y": 270 },
+        "south": { "model": "button", "x": 90, "y": 180 },
+        "north": { "model": "button", "x": 90 },
+        "pressed_up":    { "model": "button_pressed" },
+        "pressed_down":  { "model": "button_pressed", "x": 180 },
+        "pressed_east":  { "model": "button_pressed", "x": 90, "y": 90 },
+        "pressed_west":  { "model": "button_pressed", "x": 90, "y": 270 },
+        "pressed_south": { "model": "button_pressed", "x": 90, "y": 180 },
+        "pressed_north": { "model": "button_pressed", "x": 90 }
+    }
+}

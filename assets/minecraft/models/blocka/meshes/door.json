@@ -1,0 +1,39 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "elements": [
+        {   "type": "cube",
+            "from": [ 0, 0, 0 ],
+            "to": [ 3, 16, 16 ],
+            "faceData": {
+                "down": {
+                    "uv": [ 13, 0, 16, 16 ],
+                    "textureFacing": "down"
+                },
+                "up": {
+                    "uv": [ 13, 0, 16, 16 ],
+                    "textureFacing": "up"
+                },
+                "north": {
+                    "uv": [ 0, 0, 3, 16 ],
+                    "textureFacing": "north",
+                    "cull": false
+                },
+                "south": {
+                    "uv": [ 0, 0, 3, 16 ],
+                    "textureFacing": "south",
+                    "cull": false
+                },
+                "west": {
+                    "uv": [ 0, 0, 16, 16 ],
+                    "textureFacing": "west"
+                },
+                "east": {
+                    "uv": [ 16, 0, 0, 16 ],
+                    "textureFacing": "east",
+                    "cull": false
+                }
+            }
+        }
+    ]
+}

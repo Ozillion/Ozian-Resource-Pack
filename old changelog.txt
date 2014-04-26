@@ -1,0 +1,674 @@
+﻿    Old changelog
+	
+	This changelog is outdated. To track changes open 'changelog'.
+_______________________________________________________________
+
+
+
+     v2.6 eu[15.04.14] us[04.15.14]
+	 
+  -added new planks texture
+  -stole 16 wool textures from Painterely Pack by Rhodox and friends
+  -changed stone slab
+  -changed stone slab CTM
+  -stole sandstone(smooth, carved) from Painterely Pack by Rhodox and friends
+  -changed sandstone CTM
+  -changed bookshelf to fit planks
+  -changed bookshelf CTM
+  -changed craft table to fit planks
+  -changed enchantment table
+  -changed furnace
+  -changed piston
+  -changed dropper/dispenser
+  -stole TNT texture from Isabella II by Bonesmouth
+  -stole torch from Isabella II by Bonesmouth
+  -stole redstone torch from Isabella by Bonesmouth
+  -stole and modified sign item from Painterely Pack by Rhodox and friends
+  -stole and modified sing entity from Painterely Pack by Rhodox and friends
+  -stole and changed modified water from Gravel pack by three_two (originally from DokuCraft, tell me if it's too transparent)
+  -changed mob spawner to fit iron bars
+  -changed log tops for now at least
+  -stole bed from Painterely Pack by Rhodox and friends
+  -changed destroy stage indicator
+  -added bare transparent white gui
+  -changed bed item to fit stolen bed block
+  -changed pumpkin blur
+  -changed options background
+  -retired rainbow enchantment glint to alt
+  -retired natural wools to alt
+  -retired natural stone to alt so the button ana pressure plate textures work
+  -changed rails
+  -retired natural sandstone smooth to alt
+  -changed tools noise to a more controled 'hand-made' noise
+  -made all the tools shorter for better visibility during pvp experience
+  -changed iron shovel texture
+  -modified iron pickaxe texture
+  -changed wooden axe texture
+  -added non-transparent gui(almost all)
+  -added head buckets to ALT
+  -stole and modified icons and widgets by SuperAlgae the creator of Paper Cut-Out Pack
+  -stole damage, some dig, fireworks, note, bow, some step, fuse and explode sounds from SnowSong soundpack
+  -fixed background noise in wood place/break sounds
+  -made fire more transparent
+  -changed few particles
+  -made icons more transparent
+  -added non-animated textures to ALT
+  -animated water and milk buckets
+  -animated diamond, iron, gold tools
+  -stole and modified some tools from Painterely Pack by Rhodox and friends
+  -changed tools a bit
+  -changed stick texture
+  -changed fishing rod texture
+  -changed potion overlay texture
+  -animated item frame(item)
+  -changed sand to fit sandstone
+  -changed red sand
+  -stole end stone from Painterely Pack by Rhodox and Friends
+  -changed grass and foliage colormap to make terrain seem more natural
+  -added 4 natural textures for new sand
+  -added 4 natural textures for new red sand
+  -added CTM for new smooth sandstone
+  -added 8 natural textures for snadstone top
+  -improved natural bedrock textures
+  -improved natural stained hardended clay textures(you won't notice it, don't even try)
+  -improved natural podzol(still doesn't work)
+  -improved natural dirt
+  -improved natural grass
+  -improved natural mycelium
+  -added wierd glint of my own
+   
+________________________________
+
+
+     v2.5.1 eu[16.02.2014] us[02.16.2014]
+	 
+  -reduced minecart sounds
+  -added all natural wool textures
+  -fixed buttons not rendering right with Optifine
+  -fixed D not displaying right in unicode font
+  -fixed few bugs for redstone block CTM
+  
+________________________________
+
+
+     v2.5 eu[25.01.13] us[01.25.13]
+  
+  -added bunch of random villagers
+  -added bunch of random witches
+  -added few more random slimes
+  -fixed not all random mobs being displayed
+  -'stole' willow leaves from TFC modpack for unique acacia leaves
+  -'stole' red apple tree leaves from TFC modpack for unique big oak leaves
+  -'stole' chick from TFC modpack for random chicken texture
+  -'stole' rooster from TFC modpack for random chicken texture
+  -added more depth to ores
+  -added contrast to glowstone
+  -added 8 more natural dirt textures
+  -added 7 more natural grass top textures
+  -added 8 more natural podzol top textures
+  -added 8 more natural soul sand textures
+  -added 8 more natural stone textures
+  -added 8 more clay natural textures
+  -added 8 more gravel natural textures
+  -added 8 more mycelium top textures textures
+  -added 8 more sand natural textures
+  -added cyrillical alphabet
+  -updated redstone block CTM
+  -randomized coal, iron, gold, lapis, diamond and emerald ores
+  -added 6 bedrock natural textures
+  -'stole' bunch of wolves from Mark's wolf and cat textures pack
+  -'stole' bunch of cats from Mark's wolf and cat textures pack
+  -animated command block
+  -added random zombie pigman
+  -added 5 random wither skeletons
+  -added 4 random blazes
+  -added 6 random ghasts
+  -changed l, 7, /, \, ), ( and %  in fonts
+  -made smoke particles transparent
+  -made fire particles transparent
+  -bugfixes and overhaul of white and black GUI variations
+  -added Fall panorama7(my unreleased map)
+  -changed options background to chiseled quartz_side
+  -cleanup
+  -added 8 andesite natural textures
+  -added 8 granite natural textures
+  -added 8 diorite natural textures
+  -added 8 random brown mushrooms
+  -changed XP orbs
+  -modified bow color draw indicator colors
+  -made glass clearer [RedstoneOpenDoor's suggestion]
+  -added 8 natural textures for each hardened clay block
+  -added 8 natural red mushroom textures
+  -added 4 natural brown mushroom block textures
+  -added 16 natural red mushroom block textures
+  -added 8 natural inside mushroom block textures
+  -added 16 nautral stem mushroom block textures
+  -added 16 natural textures for each type of leaves
+  -messed around with language
+  -added all default splashes
+  -changed crit particle
+  -added unicode page 0 font
+  -changed pack icon
+  -retextured bow
+  -retextured arrow(item) to fit arrow in the bow texture
+  -retextured arrow(entitty) to fit arrow(item)
+________________________________
+
+     
+	 v2.4 eu[19.01.14] us[01.19.14]
+	 
+  -changed gold color to fit gold tools
+  -changed gold CTM color
+  -decreased slime block opacity
+  -added 3d-ish effect to woood button
+  -added 3d-ish effect to stone button
+  -added 3d-ish effect to wood presure plate
+  -added 3d-ish effect to stone presure plate
+  -added 3d-ish effect to gold presure plate
+  -added 3d-ish effect to iron presure plate
+  -changed trip wire hook texture
+  -changed redstone torch texture
+  -changed torch texture
+  -changed lever texture
+  -changed trip wire texture to be more distinguishable
+  -added bunch fo creeper random mobs
+  -added bunch fo slime random mobs
+  -added bunch fo spider random mobs
+  -added bunch fo cave spider random mobs
+  -added bunch fo enderman eyes random mobs
+  -added bunch fo zombie random mobs(I don't like them, will be changed)
+  -added bunch fo zombie villager random mobs(I don't like them, will be changed)
+  -changed diamond sword [old one in ALT]
+  -changed potion effect icons [old ones in ALT]
+  -changed gold sword[old one in ALT]
+  -animated blaze powder
+  -animated redstone dust
+  -animated glowstone dust
+  -animated gold ingot
+  -colored blue the bottle of enchanting
+  -animated quartz shard
+  -animated emerald
+  -renamed Nether Quartz to Quartz Shard
+  -renamed Milk to Milk Bucket
+  -renamed Nether Brick(block) to Nether Bricks
+  -animated diamond
+  -'stole' few cows from Connected Texture Pack
+  -'stole' few mooshrooms from Connected Textures Pack
+  -'stole' few chickens from Connected Textures Pack
+  -'stole' few skeletons from Connected Textures Pack
+  -animated iron sword
+  -animated gold sword
+  -animated diamond sword
+  -animated blaze rod
+  -fixed creative tab GUI
+  -fixed horse inventory GUI
+  -updated black version of GUI
+  -added white grid GUI
+  -added black grid GUI [assets/minecraft/ALT/textures/gui/black grid]
+  -moved ALT folder [assets/minecraft/ALT/textures/gui/white grid]
+
+________________________________
+
+
+    v2.3 eu[12.01.14] us[01.12.14]
+
+  -changed traped chest lock color to redish
+  -changed coal ore to be all unique and wierd(feedback?)
+  -changed gold ore to fit lapis(more feedback?)
+  -changed redstone block to fit lapis block
+  -ice is over 1.5 times transparent now!
+  -added connected texture for andesite
+  -added connected texture for granite
+  -fixed colorArrowIndicator bow in ALT [thanks santilam]
+  -fixed colorFletchingIndicator name(not a word I use everyday)
+  -made few changes to GUI
+  -made helper block CTM overhaul
+  -made CTM for redstone block
+  -made CTM for lapis block
+  -merged MCP addon with actual pack
+  -did optifine support I guess? Turns out I didn't need to do almost anything
+  -stone slab CTM is fixed for OptiFine [thanks to Plastix]
+  -fixed few sandstone smooth CTM bugs
+  -moved wood CTM to ALT (don't really like it)
+  -made water more saturated and more transparent
+  -made my own texture of diamond block based on emerald block from scratch
+  -reduced rain even more
+  -reduce snow even more
+  -made weapons noysier
+
+________________________________
+
+
+    v2.2.1 eu[07.01.14] us[01.07.14]
+	
+  -fixed offset villager trading window
+  -messed around with bottles
+  -fixed CTM gold
+  -fixed CTM iron
+  -fixed CTM quartz
+  -fixed CTM stone slab top
+  -fixed CTM helper block(sponge)
+  -fixed hopper gui
+  -fixed cursor not working properly with shaders
+  -mostly fixed smooth sandstone CTM (please inform me if you found a bug)
+  -transported mojang logo screen to MCP addon since it only works with MCpatched jars
+
+________________________________
+
+
+    v2.2 eu[01.01.14] us[01.01.14] they finally match!
+	
+  -changed 2, 3 ,5 ,6 ,8 ,P in fonts
+  -reversed to old alternative system
+  -added bunch of instruction files to alts
+  -added black version of gui to alts
+  -added green apple to alts
+  -added yellow apple to alts
+  -added golden apple that fits tools to alts
+  -reduced pack's file size drastically [thanks to Plastix]
+  -added animation to redstone ore
+  -added rainbow enchantment glint [thanks MapleMint]
+  -added 12 colored slimeballs to alts
+  -added animation for Jack o'lantern
+  
+________________________________
+
+
+    v2.1 eu[24.12.13] us[12.24.13]
+	
+  -changed i, N, R, V , v, X, x, Z, z, 1, 2, 4, 5, 6, 7, 9 in the fonts
+  -made blacked out health/armour/hunger textures transparent in icons
+  -added container color coding in gui
+  -'stole' and change color of HUD scroll ring from SuperAlgae the creator of Paper Cut-Out pack
+  -'stole' wools from SuperAlgae the creator of Paper Cut-Out pack
+  -fixed panorama resolution
+  -changed effect icons
+  -made 'alternative texture system' more intuitive
+  -added 2 more alternative icon textures
+  -added 3 more alternatives for bows
+  -changed potion particles (dw old one is in alts)
+  -added alt gravel textures
+  -added Loading block breaking animation to alts
+  -added colored Loading block breaking amimation to alts
+  -removed bottle plug from in empty bottle texture(didn't work have no idea why)
+  -changed bottle plug to blue in drinkable potion texture
+  -changed bottle plug to red in throable potion texture
+  
+________________________________
+  
+  
+    v2.0 eu[18.12.13] us[12.18.13]
+  
+  -changed pack icon
+  -changed aiming cross
+  -changed iron sword to fit OCN 'logo sword'(changed color scheme)
+  -fixed diamond armour(model) colour
+  -fixed gold armour(model) colour
+  -changed particles of enchantment(Like sharpnes or smite. Man it's hard to describe 'em)
+  -changed critical hit particles
+  -made potions squirls more notisable for invisible player destinguishing
+  -made ender pearl darker
+  -made obsidian darker and less smooth
+  -changed arrow fetcher to red and arrow body to black
+  -changed enchantment table to fit obsidian
+  -'stole' blue portal from PlayMindCrack lobby resource pack
+  -'stole' portal sounds from PlayMindCrack lobby resource pack
+  -'stole' and modified animated lava from three_two the creator of Gravel Pack
+  -added 'arrow's on fire' bow animation to indicate bow_pulling_2 stage
+  -changed podzol side texture
+  -change gold armour(model) to fit gold armour(item)
+
+  ________________________________
+
+
+    v1.9 eu[28.11.13] us[11.28.13]
+	
+  -got rid of pause sign in stream indicator
+  -improved purple CTM glass in mcpatcher addon
+  -improved red CTM glass in mcpatcher addon
+  -improved white CTM glass in mcpatcher addon
+  -improved yellow CTM glass in mcpatcher addon
+  -fixed missing pixel in furnace GUI
+  -improved light grey CTM glass in mcpatcher addon
+  -improved magenta CTM glass in mcpatcher addon
+  -improved orange CTM glass in mcpatcher addon
+  -improved pink CTM glass in mcpatcher addon
+  -messed with language
+  -language now called Ozillionian(PvP Enhanced)
+  -changed furnace arrow
+  -changed GUI white colour to fit white fonts
+  -change GUI white colour to fit white letters
+  -updated Mojang logo to new one
+  -changed 0 in fonts due to major similarity with O(they were basically the same)
+  -fixed connection icon in icons
+  -added Minecraft Realms title
+  -changed podzol dirt side
+  -worked on language more
+  
+________________________________
+  
+  
+    v1.8.1 eu[19.11.13] us[11.19.13]
+  
+  -improved grey CTM glass in mcpatcher addon
+  -improved lime CTM glass in mcpatcher addon
+  -improved light blue CTM glass in mcpatcher addon
+  -improved green CTM glass in mcpatcher addon
+  -added natural dirt to mcpatcher addon
+  -fixed enchantment Roman numerals in language now from 1 - 256
+  -added 16 random steves fitting clasic wool colours to mobs in mcpatcher addon
+  
+________________________________
+
+
+    v1.8 eu[19.11.13] us[11.19.13]
+	
+  -improved black CTM stained glass in mcpatcher addon
+  -improved blue CTM stained glass in mcpatcher addon
+  -improved brown CTM stained glass in mcpatcher addon
+  -improved cyan CTM stained glass in mcpatcher addon
+  -added more splashes
+  -fixed potion Roman numerals in language now from 1 - 255(not implemented in the game yet)
+  -messed with icons a bit
+  -separated all mcpatcher files into MCpatcher addon to enable easier mcpatcher features switch and decrease pack size
+  -changed pack icon
+  -messed with swamp grass colour in mcpatcher, unfortunately couldn't get it to fit default one
+  -added more splashes
+
+________________________________
+
+
+    v1.7 eu[14.11.13] us[11.14.13]
+
+  -modified HUD again
+  -modified furnace GUI
+  -changed brewing stand GUI
+  -worked on language file a bit more
+  -more changelog fixes
+  -removed custom portal sounds
+  -changed creative tabs GUI texture
+  -changed wooden door
+  -changed iron door
+  -changed arrow entity texture for better visibility
+  -now pig saddles fit horse saddles
+  -sugar cane item colour now fits sugar cane block colour (kind of)
+  -changed connected log textures to look more realistic
+  -added old connected log textures to alternatives
+  -messed with language a bit
+  -changed grass side texture
+  -changed snow grass texture
+  -kind of fixed achievement GUI looking all weird(not really)
+  
+
+________________________________
+
+
+    v1.6.1 eu[09.11.13] us[11.09.13]
+
+  -removed custom arrow item texture
+  -updated most of the textures for outdated versions of MC
+  -changed underwater texture to clean one
+  -changed aiming cursor texture
+  -more user friendly changelog
+  -modified crafting table GUI
+  -modified dispenser/dropper GUI
+  -made HUD darker and more transparent
+  -added credits file
+  -changelog bug fixes
+  -changed V, R, X, x, Z, z in fonts
+
+  
+________________________________
+
+
+    v1.6
+
+  -added connected acacia logs texture
+  -added connected dark oak logs texture
+  -added custom acacia leaves
+  -'stole' diamond block from Plast Pack by Plastix
+  -changed panorama background (Mega Taiga)
+  -alternative panorama background (Ice Spike Plains)
+  -alternative Indian bow
+  -alternative old diamond block
+  -added coloured resource pack name
+  -added coloured resource pack description
+  -custom language file (select Ozillionian(EN) in languages in order to use)
+  -few changes in language file
+  -created Changelog which you are reading rihgt now (from memory :d )
+  -technical clean up
+  -added natural gravel texture
+  -added natural sand texture
+  -added natural red sand texture
+  -added natural clay texture
+  -added natural podzol texture
+  -added connected quartz texture
+  -added connected glowstone texture
+  -added connected stained glass texture (all colors)
+  -messed with natural grass texture
+  -'stole' portal animation inside ender chest from Connected Texures Pack by Gibboman456, Imalsome and CarGem
+  -changed menu title to white
+  -added blinking "A" letter in menu title
+  -changed widgets
+  -added old widgets to alternatives
+
+________________________________
+
+    v1.5
+
+  -added connected oak logs textures
+  -added connected birch logs
+  -added connected spruce logs
+  -added connected jungle logs
+  -added connected iron blocks
+  -added connected gold blocks
+  -'stole' connected glass texture from Optifine Mod
+  -'stole' connected bookshelves from Optifine Mod
+  -'stole' connected sandstone from Optifine Mod
+  -'stole' connected smooth sandstone from Connected Textures Pack by Gibboman456, Imalsome and CarGem
+  -'stole' connected stone slabs from Connected Textures Pack by Gibboman456, Imalsome and CarGem
+  -'stole' randomized tall grass from Connected Textures Pack by Gibboman456, Imalsome and CarGem
+  -'stole' randomized mossy stone brick from Connected Textures by Gibboman456, Imalsome and CarGem
+  -'stole' randomized cracked stone brick from Connected Textures by Gibboman456, Imalsome and CarGem
+  -added natural grass texture
+  -added natural soul sand texture
+  -added natural reeds texture
+  -added blue xp orbs to mcpatcher
+  -added alternative jungle log top connected texture
+  -desaturated gold tools
+  -desaturated gold armor
+  -brought back old cocoa beans
+  
+________________________________
+
+
+    v1.4
+
+  -'dirtied' some tools and weapons up
+  -added Roman numerals to widgets
+  -changed menu selection color to blue in widgets
+  -changed menu title
+  -changed Mojang logo
+  -changed ice texture
+  -changed packed ice texture to cleaner one
+  -changed dirt
+  -"stole" snow grass side from FLOB pack by AxjZOne
+  -changed mycelium side
+  -changed podzol side
+  -smoothed out obsidian
+  -enchanting table fits diamond blocks and obsidian
+  -completely reworked icons
+  -added new resource pack GUI
+  -modified hunger bar slightly
+  -custom splashes file
+  -custom language file
+  -changed iron armor model
+  -changed gold armor model
+  -changed diamond armor model
+  -added stone options background
+
+________________________________
+
+
+    v1.3 "The Ultimate Stealing Patch"
+
+  -'stole' water texture from Plast Pack by Plastix
+  -'stole' bedrock texture from Plast Pack by Plastix
+  -'stole' gold block texture from Plast Pack by Plastix
+  -'stole' fire texture from Sphax PureBD Craft by Sphax
+  -'stole' compass texture from Plast Pack by Plastix
+  -'stole' nether rack texture from Plast Pack by Plastix
+  -'stole' iron bar texture idea from Plast Pack by Plastix
+  -'uniqu'd' all tool and weapon textures
+  -fittled with bow texture
+  -'stole' xp bar texture from Plast Pack by Plastix
+  -'stole' hunger bar texture from Plast Pack by Plastix
+  -'stole' panorama background texture
+  -'stole' and modified multiplayer connection bar texure from Plast Pack by Plastix
+  -'stole' menu title texture
+  -'stole' drink sound from Plast Pack by Plastix
+  -'stole' click sound from Plast Pack by Plastix
+  -'stole' portal sound from Plast Pack by Plastix
+  -'stole' and modified fonts by SuperAlgae the creatoe of Paper Cut-Out Pack
+  
+________________________________
+
+
+    v1.2
+
+  -added more saturated diamond item
+  -added new color drawn bow PvP indicator
+  -added more saturated diamond block
+  -changed grass side (in an item form)
+  -minor container changes
+  -minor icon changes
+  
+________________________________
+  
+  
+    v1.1
+  
+  -minor widget changes
+  -messed with water color
+  -'stole' jungle top from Plast Pack by Plastix
+  -'stole' birch top from Plast Pack by Plastix
+  -'stole' spruce top from Plast Pack by Plastix
+
+________________________________
+
+
+    v1.0
+
+  -updated to resource pack system
+  -'stole' and modified GUI from Plast Pack by Plastix
+  -changed background to stone
+  -magical enchantment fonts are colorful now(not like in Plast Pack. Not at all:P)
+
+________________________________
+
+
+    v1.2.1b
+
+  -changed water to light blue
+  -changed water bucket item to fit the water
+ 
+________________________________
+
+
+    v1.2b
+
+  -cleaner ice
+  -cleaner glass
+  -'stole' grass side from FLOB pack by AxjZOne
+  -cleaner pumpkin blur
+  -fewer rain particles
+  -fewer snow particles
+  -changed rain particle color
+  -changed snow particle opacity
+  -removed unused fields in GUI containers
+  -modified icons
+  -modified widgets
+  -brought back and immediatly removed few old sounds due to major annoyances
+ 
+________________________________
+
+
+    v1.1b
+
+  -changed axe textures of all types
+  -changed sword textures of all types
+  -added more saturated diamond armor item
+  -added more saturated gold armor item
+  -added slightly changed iron armor item
+  -added cleaner fishing rod
+  -added cleaner carrot on a stick
+  -added cleaner stick
+  -added non-leaking water bucket
+  -added non-leaking lava bucket
+  -added non-leaking milk bucket
+  -added more saturated diamond armour model
+  -added more saturated gold tools texture
+  -minor GUI fixes
+  -more icon changes
+
+________________________________
+
+
+    v1.0b
+
+  -Indian bow
+  -Indian arrow
+  -cleaner wooden tools
+  -cleaner stone tools
+  -cleaner iron tools
+  -cleaner gold tools
+  -cleaner diamond tools
+  -added more saturated diamond tools
+  -added saddle texture from mo' creatures mod (unused horse saddle texture)
+  -added pack picture
+  -added cleaner GUI
+  -added new horse GUI
+  -minor icon changes
+  -minor widget changes
+  -updated to unstiched texture pack system
+  -brought back old gravel (post mc1.0, not the oldest one, 2nd generation of gravel)
+  -'stole' icons texture from OCD pack by FVDisco
+  -'stole' widgets texture from OCD pack by FVDisco
+
+________________________________
+
+
+    v1.1.1a
+	
+  -changed to default grass colors
+  -changed to default foliage colors
+
+________________________________
+
+
+    v1.1a
+
+  -brought back old mob spawner texture
+  -brought back old oak sapling texture
+  -added greener grass colors (beta colours I like calling them)
+  -added greener foliage colors
+  -brought back old red brick texture
+  -brought back even older gravel texture
+  -brought back old cobblestone texture
+  -brought back old moss cobblestone texture
+  -brought back old gravel texture
+
+________________________________
+
+	
+    v1.0a
+
+  -brought back old raw pork texture
+  -brought back old cooked pork texture
+  -brought back old bread texture
+  -brought back old apple texture
+  -brought back old golden apple texture
+  -brought back old raw beef texture
+  -brought back old steak texture
+  -brought back old raw chicken texture
+  -brought back old cooked chicken texture

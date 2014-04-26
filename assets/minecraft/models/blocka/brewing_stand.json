@@ -1,0 +1,13 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "empty":       { "model": "brewing_stand_empty" },
+        "bottles_1":   { "model": "brewing_stand_bottles_1" },
+        "bottles_2":   { "model": "brewing_stand_bottles_2" },
+        "bottles_3":   { "model": "brewing_stand_bottles_3" },
+        "bottles_12":  { "model": "brewing_stand_bottles_12" },
+        "bottles_13":  { "model": "brewing_stand_bottles_13" },
+        "bottles_23":  { "model": "brewing_stand_bottles_23" },
+        "bottles_123": { "model": "brewing_stand_bottles_123" }
+    }
+}

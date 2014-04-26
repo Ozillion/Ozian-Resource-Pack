@@ -1,0 +1,21 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "off_ceil_e":  { "model": "lever_off", "x": 180, "y": 90 },
+        "off_wall_e":  { "model": "lever_off", "x": 90, "y": 90 },
+        "off_wall_w":  { "model": "lever_off", "x": 90, "y": 270 },
+        "off_wall_s":  { "model": "lever_off", "x": 90, "y": 180 },
+        "off_wall_n":  { "model": "lever_off", "x": 90 },
+        "off_floor_n": { "model": "lever_off" },
+        "off_floor_e": { "model": "lever_off", "y": 270 },
+        "off_ceil_n":  { "model": "lever_off", "x": 180, "y": 180 },
+        "on_ceil_e":   { "model": "lever", "x": 180, "y": 90 },
+        "on_wall_e":   { "model": "lever", "x": 90, "y": 90 },
+        "on_wall_w":   { "model": "lever", "x": 90, "y": 270 },
+        "on_wall_s":   { "model": "lever", "x": 90, "y": 180 },
+        "on_wall_n":   { "model": "lever", "x": 90 },
+        "on_floor_n":  { "model": "lever" },
+        "on_floor_e":  { "model": "lever", "y": 270 },
+        "on_ceil_n":   { "model": "lever", "x": 180, "y": 180 }
+    }
+}

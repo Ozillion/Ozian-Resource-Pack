@@ -1,0 +1,33 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "useAmbientOcclusion": false,
+    "inventoryRender3D": false,
+    "elements": [
+        {   "type": "plane",
+            "from": [ 0, -1, 8 ],
+            "to": [ 16, 1, 8 ],
+            "facing": "south",
+            "twoSided": true,
+            "rotation": [ 0, 45, 0 ],
+            "faceData": {
+                "uv": [ 0, 0, 16, 2 ],
+                "textureFacing": "down",
+                "tint": true,
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 8, -1, 0 ],
+            "to": [ 8, 1, 16 ],
+            "facing": "east",
+            "twoSided": true,
+            "rotation": [ 0, 45, 0 ],
+            "faceData": {
+                "uv": [ 0, 0, 16, 2 ],
+                "textureFacing": "down",
+                "tint": true,
+                "cull": false
+            }
+        }
+    ]
+}

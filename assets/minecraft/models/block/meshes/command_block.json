@@ -1,0 +1,90 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "elements": [
+        {   "__comment": "Inner cube",
+            "type": "cube",
+            "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faceData": {
+                "down":  { "uv": [ 0, 0, 16, 16 ], "textureFacing": "down" },
+                "up":    { "uv": [ 0, 0, 16, 16 ], "textureFacing": "up" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "textureFacing": "north" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "textureFacing": "south" },
+                "west":  { "uv": [ 0, 0, 16, 16 ], "textureFacing": "west" },
+                "east":  { "uv": [ 0, 0, 16, 16 ], "textureFacing": "east" }
+            }
+        },
+        {   "__comment": "Upper brick",
+            "type": "cube",
+            "from": [ 13, 16, 13 ],
+            "to": [ 4, 16.5, 4 ],
+            "faceData": {
+                "south": { "uv": [  4,  4,    13, 4 ], "cull": false, "textureFacing": "south" },
+                "north": { "uv": [ 4,  13, 13,   13 ], "cull": false, "textureFacing": "north" },
+                "up":    { "uv": [  13,  13,    4,   4 ], "textureFacing": "up" },
+                "east":  { "uv": [  4,  4,  4,   13 ], "cull": false, "textureFacing": "east", "rotation": 90 },
+                "west":  { "uv": [  13,  4,  13,   13 ], "cull": false, "textureFacing": "west", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Lower brick",
+            "type": "cube",
+            "from": [ 13, -0.5, 12 ],
+            "to": [ 4, 0, 3 ],
+            "faceData": {
+                "south": { "uv": [  13,  13,    4, 13 ], "cull": false, "textureFacing": "south" },
+                "north": { "uv": [ 13,  4, 4,   4 ], "cull": false, "textureFacing": "north" },
+                "down":    { "uv": [  13,  13,    4,   4 ], "textureFacing": "down" },
+                "east":  { "uv": [  4,  13,  4,   4 ], "cull": false, "textureFacing": "east", "rotation": 90 },
+                "west":  { "uv": [  13,  13,  13,   4 ], "cull": false, "textureFacing": "west", "rotation": 90 }
+            }
+        },
+        {   "__comment": "South brick",
+            "type": "cube",
+            "from": [ 4, 3, 16 ],
+            "to": [ 13, 12, 16.5 ],
+            "faceData": {
+                "down":  { "uv": [ 4, 13,   13, 13 ], "cull": false, "textureFacing": "down" },
+                "up":    { "uv": [ 4, 4,   13, 4 ], "cull": false, "textureFacing": "up" },
+                "south": { "uv": [ 4, 4,   13,   13 ], "textureFacing": "south" },
+                "west":  { "uv": [ 4, 4, 4,   13 ], "cull": false, "textureFacing": "west" },
+                "east":  { "uv": [ 13, 4, 13,   13 ], "cull": false, "textureFacing": "east" }
+            }
+        },
+        {   "__comment": "North brick 1",
+            "type": "cube",
+            "from": [ 3, 3, -0.5 ],
+            "to": [ 12, 12, 0 ],
+            "faceData": {
+                "down":  { "uv": [ 13, 4,   13, 13 ], "cull": false, "textureFacing": "down", "rotation": 90 },
+                "up":    { "uv": [ 4, 4,   13, 4 ], "cull": false, "textureFacing": "up" },
+                "north": { "uv": [ 4, 4,   13,   13 ], "textureFacing": "north" },
+                "west":  { "uv": [ 13, 4, 13,   13 ], "cull": false, "textureFacing": "west" },
+                "east":  { "uv": [ 4, 4, 13,   4 ], "cull": false, "textureFacing": "east", "rotation": 90  }
+            }
+        },
+        {   "__comment": "East brick",
+            "type": "cube",
+            "from": [ 16, 3, 3 ],
+            "to": [ 16.5, 12, 12 ],
+            "faceData": {
+                "down":  { "uv": [ 13, 4,   13, 13 ], "cull": false, "textureFacing": "down" },
+                "up":    { "uv": [ 4, 4,   13, 4 ], "cull": false, "textureFacing": "up", "rotation": 90 },
+                "east":  { "uv": [ 4, 4,   13,   13 ], "textureFacing": "east" },
+                "south": { "uv": [  4,  4,  13,   4 ], "cull": false, "textureFacing": "south", "rotation": 90 },
+                "north": { "uv": [  13,  4,  13,   13 ], "cull": false, "textureFacing": "north" }
+            }
+        },
+        {   "__comment": "West brick",
+            "type": "cube",
+            "from": [ -0.5, 3, 4 ],
+            "to": [ 0, 12, 13 ],
+            "faceData": {
+                "down":  { "uv": [ 13, 4,   13, 13 ], "cull": false, "textureFacing": "down", "rotation": 180 },
+                "up":    { "uv": [ 4, 4,   13, 4 ], "cull": false, "textureFacing": "up", "rotation": 90 },
+                "west":  { "uv": [ 4, 4,   13,   13 ], "textureFacing": "west" },
+                "south": { "uv": [  13,  4,  13,   13 ], "cull": false, "textureFacing": "south" },
+                "north": { "uv": [  4,  4,  13,   4 ], "cull": false, "textureFacing": "north", "rotation": 270 }
+            }
+        }
+    ]
+}
